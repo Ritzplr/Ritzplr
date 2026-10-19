@@ -30,8 +30,8 @@ I build the cloud and backend systems that other teams rely on. Software Develop
 |---|---|
 | [opswatch](https://github.com/Ritzplr/opswatch) | Hands-off health checks with change-only alerts |
 | [task-management-django](https://github.com/Ritzplr/task-management-django) | Task management REST API with role-based access |
-| [Social-Netowek-Djanjo-Api](https://github.com/Ritzplr/Social-Netowek-Djanjo-Api) | Social network API with Docker |
-| [Warranty-Managment-System](https://github.com/Ritzplr/Warranty-Managment-System) | Django system built for a railway workshop |
+| [social-network-django-api](https://github.com/Ritzplr/social-network-django-api) | Social network API with Docker |
+| [warranty-management-system](https://github.com/Ritzplr/warranty-management-system) | Django system built for a railway workshop |
 
 ## Publication
 
